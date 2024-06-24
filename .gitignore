@@ -1,0 +1,7 @@
+.idea/
+obj/
+bin/
+logs/
+
+*.jwk
+#secrets.json
